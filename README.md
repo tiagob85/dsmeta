@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/46384388/179373054-999d8b49-3ca3-4f4c-901e-15f00a48ef31.jpg" width=800 />
 </p>
-<br><br>
+
 <p>
   <h3>Tecnologias Utilizadas: </h3>
   <ul>
